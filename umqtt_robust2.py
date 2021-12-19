@@ -15,8 +15,8 @@ except ImportError:
 
 
 besked = "Empty"
-WIFI_SSID = "LTE-1998"
-WIFI_PASSWORD = "12345678"
+WIFI_SSID = "--------"
+WIFI_PASSWORD = "-------"
 
 # turn off the WiFi Access Point
 ap_if = network.WLAN(network.AP_IF)
